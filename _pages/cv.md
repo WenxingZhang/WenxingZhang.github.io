@@ -17,13 +17,13 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Spring 2024: Professor, UESTC
+  * UESTC University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
+* Spring 2015: Associate Professor
+  * UESTC University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
