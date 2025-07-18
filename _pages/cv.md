@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D Nanjing University, 2012
-* M.S. Nanjing Normal University, 2009
-* B.S. Shandong Normal University, 2006
+* 2012: Ph.D  Nanjing University (Supervisor: Bingsheng He)
+* 2009: M.S.  Nanjing Normal University (Supervisor: Deren Han)
+* 2006: B.S.   Shandong Normal University
 
 Work experience
 ======
-* Spring 2024: Professor, UESTC
-  * UESTC University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.08-Now, Professor, UESTC
+* 2015.08-2024.08, Associate Professor, UESTC
+* 2012.08-2015.08, Lecturer, UESTC
 
-* Spring 2015: Associate Professor
-  * UESTC University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
+Visiting experience
+======
+* 2014.02-2015.02: Postdoc, CNRS-ITAV, Université de Toulouse (Supervisors: Pierre Weiss, J\'{e}r\^{o}me Fehrenbach)
+* 2010.10-2011.08: Research Assistant, Hong Kong Baptist University (Supervisor: Xiaoming Yuan)
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
