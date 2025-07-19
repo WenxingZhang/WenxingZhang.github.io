@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2025-6-01
 venue: 'J Sci Comput'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'http://academicpages.github.io/files/distributedCodes.zip'
 citation: 'Li Y, Xu H, Zhang W (2025) <i>J Sci Comput</i>. 104 1-29.'
 ---
 
