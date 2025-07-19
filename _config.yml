@@ -24,12 +24,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Wenxing Zhang (张文星)"
-  pronouns         : "he/his"  
-  bio              : "Professor, UESTC"
-  location         : "Room A401, Innovation Center, Qingshui Campus"
-  employer         : "UESTC, P.R. China"
+  pronouns         : # "he/his"  
+  bio              : "Professor"
+  location         : "Chengdu, P.R. China"
+  employer         : "UESTC"
   uri              : # URL
-  email            : "zhangwxATuestc.edu.cn" 
+  email            : "zhangwx[AT]uestc.edu.cn" 
 
   # Academic websites
   academia         : # URL
