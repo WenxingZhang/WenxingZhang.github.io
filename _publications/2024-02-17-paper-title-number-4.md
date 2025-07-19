@@ -5,7 +5,7 @@ category: manuscript
 permalink: /publication/2024-02-17-paper-title-number-4
 date: 2024-02-17
 venue: 'J Sci Computing'
-paperurl: 'http://academicpages.github.io/files/distributedCodes.zip')
+paperurl: 'http://academicpages.github.io/files/paper1.pdf')
 citation: 'Y.M. Li, H.W.Xu, and W.X. Zhang. (2025). <i>J Sci Comput</i>. 104, 1-29.'
 ---
 
