@@ -3,7 +3,6 @@ title: "A balanced augmented Lagrangian method with correction for linearly cons
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-6-01
 venue: 'J Sci Comput'
 paperurl: 'https://link.springer.com/article/10.1007/s10915-025-02935-9'
