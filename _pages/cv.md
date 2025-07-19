@@ -11,13 +11,13 @@ redirect_from:
 
 Short-Bio
 ======
-* I was born in Jianan, Shandong Province, P.R. China in 1984. I am now a professor at school of mathematical sciences, University of Electronic Science and Technology of China(UESTC). 
+* I was born in [Jinan](https://www.chinadiscovery.com/shandong/jinan.html), Shandong Province, P.R. China in 1984. I am now a professor at school of mathematical sciences, [University of Electronic Science and Technology of China(UESTC)](https://www.uestc.edu.cn/). 
 My research interests are in first-order convex/nonconvex optimization methods, variational inequalities, and applications in computer vision.
 
 Education
 ======
-* 2012: Ph.D  Nanjing University (Supervisor: Bingsheng He)
-* 2009: M.S.  Nanjing Normal University (Supervisor: Deren Han)
+* 2012: Ph.D  Nanjing University (Supervisor: [Bingsheng He](http://maths.nju.edu.cn/~hebma/))
+* 2009: M.S.  Nanjing Normal University (Supervisor: [Deren Han](https://shi.buaa.edu.cn/handeren/zh_CN/index.htm))
 * 2006: B.S.   Shandong Normal University
 
 Work experience
@@ -28,8 +28,8 @@ Work experience
 
 Visiting experience
 ======
-* 2014.02-2015.02: Postdoc, CNRS-ITAV, Université de Toulouse (Supervisors: Pierre Weiss, Jerome Fehrenbach)
-* 2010.10-2011.08: Research Assistant, Hong Kong Baptist University (Supervisor: Xiaoming Yuan)
+* 2014.02-2015.02: Postdoc, CNRS-ITAV, Université de Toulouse (Supervisors: [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/), [Jérôme Fehrenbach](https://perso.math.univ-toulouse.fr/fehren/))
+* 2010.10-2011.08: Research Assistant, Hong Kong Baptist University (Supervisor: [Xiaoming Yuan](https://hkumath.hku.hk/~xmyuan/))
 
 Recent Publications
 ======
