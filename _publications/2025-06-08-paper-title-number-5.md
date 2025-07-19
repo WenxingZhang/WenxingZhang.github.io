@@ -2,7 +2,7 @@
 title: "An inexact variable metric Douglas-Rachford splitting method for nonconvex optimization"
 collection: publications
 category: manuscript
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2025-06-08-paper-title-number-5
 excerpt: 'This paper is about a variable metric method'
 date: 2024-02-17
 venue: 'manuscript'
