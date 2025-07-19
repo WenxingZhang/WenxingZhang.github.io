@@ -10,5 +10,5 @@ citation: 'Li Y, Xu H, Zhang W (2025) <i>J Sci Comput</i>. 104 1-29.'
 ---
 
 Augmented Lagrangian method (ALM) is a quintessential prototype for linearly constrained optimization. However, a crude use of ALM is rarely possible due to the challenging augmented subproblem. A balanced ALM was recently innovated (He and Yuan, arXiv, 2021) by transferring some computational workloads from the augmented subproblem to the Lagrange multiplier. In this paper, by deploying the prediction-correction framework, we further ameliorate the balanced ALM by introducing a correction step. The $O(1/N)$ convergence rates of the proposed method in both ergodic and nonergodic senses are established under some mild conditions. {With the perspectives} of spectral decomposition, we analyze the coefficients involving convergence rate of the proposed method. Numerical simulations on some image recovery problems demonstrate the compelling performance of the proposed method. 
-[code](https://WenxingZhang.github.io/files/distributedCodes.zip)
-[paper](https://WenxingZhang.github.io/files/paper1.pdf)
+[Codes](https://WenxingZhang.github.io/files/distributedCodes.zip)
+
