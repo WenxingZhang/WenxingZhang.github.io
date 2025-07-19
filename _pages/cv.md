@@ -23,27 +23,9 @@ Work Experience
 
 Visiting Experience
 ======
+* 2018.12-2019.02: Research Assistant, The University of Hong Kong (with [Xiaoming Yuan](https://hkumath.hku.hk/~xmyuan/))
+* 2017.01-2017.02: Research Assistant, The Chinese University of Hong Kong (with Raymond Chan)
 * 2014.02-2015.02: Postdoc, CNRS-ITAV, Université de Toulouse (with [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/), [Jérôme Fehrenbach](https://perso.math.univ-toulouse.fr/fehren/))
 * 2010.10-2011.08: Research Assistant, Hong Kong Baptist University (with [Xiaoming Yuan](https://hkumath.hku.hk/~xmyuan/))
 
-Recent Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-#Talks
-#======
-# <ul>{% for post in site.talks reversed %}
-#    {% include archive-single-talk-cv.html  %}
-#  {% endfor %}</ul>
-  
-#Teaching
-#======
-# <ul>{% for post in site.teaching reversed %}
-#    {% include archive-single-cv.html %}
- # {% endfor %}</ul>
-  
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+
