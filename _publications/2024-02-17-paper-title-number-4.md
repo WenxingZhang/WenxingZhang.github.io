@@ -6,8 +6,7 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-6-01
 venue: 'J Sci Comput'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/distributedCodes.zip'
+paperurl: 'https://link.springer.com/article/10.1007/s10915-025-02935-9'
 citation: 'Li Y, Xu H, Zhang W (2025) <i>J Sci Comput</i>. 104 1-29.'
 ---
 
