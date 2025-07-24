@@ -1,14 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "Optimization Method and Applications"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
+venue: "Pinxue Building, Qingshui Campus"
 date: 2015-01-01
-location: "City, Country"
+location: "Chengdu, P.R. China"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
+This is an optional course for graduate students from majored in applied/computational mathematics.
 
 Heading 1
 ======
