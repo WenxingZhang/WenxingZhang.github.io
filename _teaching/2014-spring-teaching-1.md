@@ -1,14 +1,14 @@
 ---
-title: "Introduction最优化导论(数学系、英才学院本科生)"
+title: "An Introduction to Optimization"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "Pinxue Building, Qingshui Campus"
 date: 2014-01-01
-location: "City, Country"
+location: "Chengdu, P.R. China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+《最优化导论》，面向数学系、英才学院本科生
 
 Heading 1
 ======
