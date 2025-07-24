@@ -7,7 +7,7 @@ venue: "Pinxue Building, Qingshui Campus"
 date: 2015-01-01
 location: "Chengdu, P.R. China"
 ---
-This is an optional course for graduate students from majored in applied/computational mathematics.
+This is an optional course for graduate students majored in applied/computational mathematics.
 
 Heading 1
 ======
