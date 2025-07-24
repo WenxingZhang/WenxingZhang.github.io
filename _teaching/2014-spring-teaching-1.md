@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Introduction最优化导论(数学系、英才学院本科生)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
