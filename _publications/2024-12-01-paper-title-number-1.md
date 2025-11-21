@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-12-01-paper-title-number-1
 date: 2024-12-01
-venue: 'under review'
+venue: 'Inverse Problem Imaging'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
