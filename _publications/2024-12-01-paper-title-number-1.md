@@ -3,7 +3,7 @@ title: "Self-adaptive ADMM for grasping force optimization with contact uncertai
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-01-paper-title-number-1
-date: 2024-12-01
+date: 2026-09-01
 venue: 'preprint'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
