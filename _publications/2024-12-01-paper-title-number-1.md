@@ -1,13 +1,13 @@
 ---
-title: "Unsupervised diffusion method with null space learning for cloud removal in remote sensing images"
+title: "Self-adaptive ADMM for grasping force optimization with contact uncertainty"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-12-01-paper-title-number-1
 date: 2024-12-01
-venue: 'Inverse Problem Imaging'
+venue: 'preprint'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Y.X. Zhang, L.W. Xu, J.P. Yin, W.X. Zhang. (2025). <i>Inverse Problem Imaging</i>. to appear.'
+citation: 'C.K. Hu, X.F. Wang, W.X. Zhang*, (2026). <i>preprint</i>. under review.'
 ---
-Clouds are ubiquitous in remote sensing images, and most of the existing methods for cloud removal are limited to either implementing multispectral images or exploiting supervised learning techniques. In this paper, we propose an unsupervised diffusion method by adapting the null space learning. The proposed method is built upon two trained denoising diffusion probabilistic models on diverse remote sensing datasets so as to cope with the mixed data from different sources. The matrices involving simplified degradation and  ``self-adaptive'' generalized inverse are devised for the null space decomposition. For the diffusion model with null space decomposition, we derive its continuous reverse-time stochastic differential equation (SDE) and prove its variance-preserving property. Furthermore, we formulate  explicitly the expectation of  reverse-time SDE, which expedites  the numerical efficiency of the proposed method. Numerical experiments on some remote sensing images are implemented to demonstrate the performance of the proposed method.
+Grasping force optimization (GFO), which aims to seek optimal forces on contact points under force/torque equilibrium (F/T-EQ) and friction cone constraints, is a fundamental problem in multifingered robotic hand grasping. However, the uncertainties at fingertips may invalidate the contact matrix (and hence F/T-EQ). In this paper, we ameliorate the classical GFO into a reliable version by exploiting the penalty theory. The proposed GFO falls into the form of separable convex optimization, which can be efficiently solved by alternating direction method of multipliers (ADMM). Furthermore, to facilitate the parametric selection on penalty parameter for the real-world applications, we deploy a self-adaptive ADMM by balancing the primal and dual residuals, followed by a  distinct convergence analysis from (He, Yang, and Wang, J Optim Theory Appl, 106:337-356, 2000). Numerical experiments demonstrate that the self-adaptive ADMM performs compellingly on various grasp planning.
